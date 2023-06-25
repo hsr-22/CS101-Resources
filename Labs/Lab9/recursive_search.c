@@ -1,3 +1,6 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
