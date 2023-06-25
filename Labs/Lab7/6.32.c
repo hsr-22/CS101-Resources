@@ -1,3 +1,6 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
 // Linear search of an array using Recursion.
 #include <stdio.h>
 #define SIZE 100
