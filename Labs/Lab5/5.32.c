@@ -1,4 +1,6 @@
-/**/
+/*
+Author: Harsh Sanjay Roniyar 
+*/
 // Randomly generate numbers between 1 and 1000 for user to guess.
 #include <stdio.h>
 #include <stdlib.h>
