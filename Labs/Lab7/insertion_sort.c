@@ -1,3 +1,6 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
 // The insertion sort algorithm. 
 #define SIZE 10
 #include <stdio.h>
