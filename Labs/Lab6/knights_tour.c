@@ -1,3 +1,7 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
+//Incomplete implementation
 #include <stdio.h>
 
 int board[8][8];
