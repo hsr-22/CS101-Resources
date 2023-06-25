@@ -1,3 +1,6 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
 #include <stdio.h>
 
 float power(float base, int exponent);
