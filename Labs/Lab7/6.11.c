@@ -1,3 +1,6 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
 // The selection sort algorithm. 
 #define SIZE 10
 #include <stdio.h>
