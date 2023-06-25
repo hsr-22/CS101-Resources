@@ -1,3 +1,6 @@
+/*
+Author: Harsh Sanjay Roniyar
+*/
 // Binary search of a sorted array.
 #include <stdio.h>
 #include <stdlib.h>
